@@ -1,5 +1,5 @@
 var config = {
-    routeBasename: '/realword-front.github.io'
+    routeBasename: '/'
 }
 
 window.rvtConfig = config
